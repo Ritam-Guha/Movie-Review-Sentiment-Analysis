@@ -1,1 +1,1 @@
-# Movie-Recommendation-Sentiment-Analysis
+# Movie-Review-Sentiment-Analysis
