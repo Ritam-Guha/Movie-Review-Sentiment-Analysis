@@ -4,7 +4,7 @@ Movie review sentiment analysis is a complex problem under the scope of natural 
 
 ## MoReS Flowchart
 
-<b>Cooperative Genetic Algorithm</span></b><br>
+<b>MoReS</span></b><br>
 <p align="center">  
-  <img src="https://github.com/Ritam-Guha/CGA/blob/master/Images/MoReS flowchart.png">
+  <img src="https://github.com/Ritam-Guha/CGA/blob/master/Images/MoReS framework.png">
 </p><br>
